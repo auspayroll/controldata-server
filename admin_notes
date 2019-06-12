@@ -1,0 +1,4 @@
+run the api
+
+cd api
+npm run start

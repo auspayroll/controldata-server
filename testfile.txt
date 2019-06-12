@@ -1,0 +1,40 @@
+18-04-22 12:24:20
+Flow  0  l/h
+Vel:  0 m/s
+NET: +6x m
+POS: +6x m
+NEG:  0x m
+UP:000 DN:000 Q=00
+TIM= 36:31:53
+TODAY  2.99504 m3
+
+18-04-22 12:24:25
+Flow  0  l/h
+Vel:  0 m/s
+NET: +6x m
+POS: +6x m
+NEG:  0x m
+UP:000 DN:000 Q=00
+TIM= 36:31:58
+TODAY  2.99504 m3
+
+18-04-22 12:24:30
+Flow  0  l/h
+Vel:  0 m/s
+NET: +6x m
+POS: +6x m
+NEG:  0x m
+UP:000 DN:000 Q=00
+TIM= 36:32:03
+TODAY  2.99504 m3
+
+18-04-22 12:24:35
+Flow  0  l/h
+Vel:  0 m/s
+NET: +6x m
+POS: +6x m
+NEG:  0x m
+UP:000 DN:000 Q=00
+TIM= 36:32:08
+TODAY  2.99504 m3
+

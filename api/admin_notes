@@ -1,0 +1,12 @@
+// npm install bcrypt failed on Mac OS X, had to rebuild from source
+pm2 start ecosystem.config.js --env development
+
+Bcrypt
+==============
+Failed on Mac, had to rebuild
+npm rebuild bcrypt --build-from-source
+
+Failed on aws, had to install gcc install
+
+sudo yum groupinstall "Development Tools"
+npm install bcrypt
